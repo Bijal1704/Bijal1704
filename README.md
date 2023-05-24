@@ -17,7 +17,7 @@ I am passionate about creating clean, user-friendly, and efficient websites that
 Feel free to contact me for any WordPress development project. I look forward to the opportunity to work with you!
 
 </a>
-<a href="https://www.linkedin.com/in/wpbijalshah/">
+<a href="https://www.linkedin.com/in/bijal-shah-6763a5271/">
   <img align="left" alt="Bijal LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
